@@ -10,7 +10,7 @@ A simple and functional Todo list web application built with **Spring Boot** and
 
 ## 🛠️ Technologies Used
 
-- Java 11 (tested with OpenJDK 11.0.6)
+- Java 
 - Spring Boot
 - Spring Data JPA
 - MySQL
